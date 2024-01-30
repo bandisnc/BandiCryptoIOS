@@ -7,6 +7,9 @@ IOS용 반디에스앤씨 암호화 라이브러리
 pod 'BandiCryptoIOS', '~> 1.0.1'
 ```
 
+### 최소 요구사항
+- iOS 13.0+ 
+
 ### Author
 
 BandiCryptoIOS is owned and maintained by [Bandisnc Company](https://www.bandisnc.com/)
